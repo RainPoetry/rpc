@@ -1,0 +1,19 @@
+
+"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(½â«•8å£İèÜ,
+lsquid:S1192"IDefine a constant instead of duplicating this literal "[Thread-" 5 times.(íÀÒıÿÿÿÿ8å£İèÜ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÀÒıÿÿÿÿ8å£İèÜ,
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Åãü8å£İèÜ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖĞÊÎÿÿÿÿÿ8å£İèÜ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹÷çöøÿÿÿÿ8å£İèÜ,
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Æéš‚ùÿÿÿÿ8å£İèÜ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇ¨Ä8å£İèÜ,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ì½³Âşÿÿÿÿ8å£İèÜ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç§Äˆ8å£İèÜ,

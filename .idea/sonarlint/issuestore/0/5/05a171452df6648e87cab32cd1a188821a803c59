@@ -1,0 +1,8 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'org.apache.zookeeper.ZKUtil'.(ÁŒ¸åÿÿÿÿÿ8êĞú”İ,
+Fsquid:S1604!"(Make this anonymous inner class a lambda(Î±’Ù8êĞú”İ,
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ß‘µÍ8êĞú”İ,
+{squid:UselessImportCheck
+"PRemove this unused import 'org.apache.zookeeper.server.ZooKeeperCriticalThread'.(ÙÊİí8êĞú”İ,
+Msquid:S001081")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8êĞú”İ,
+gsquid:UselessImportCheck"7Remove this unused import 'com.cc.zktools.BaseZkUtils'.(ÄşÛ²úÿÿÿÿ8ºûîÜ,

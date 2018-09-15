@@ -1,0 +1,4 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ַ€הגרÿÿÿÿ
+esquid:UselessImportCheck"<Remove this unused import 'java.lang.annotation.Annotation'.(¦אבûÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'com.cc.Annotation.RpcService'.(†ֳַּ

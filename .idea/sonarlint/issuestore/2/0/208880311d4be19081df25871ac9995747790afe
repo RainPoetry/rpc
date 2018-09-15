@@ -1,0 +1,9 @@
+
+`squid:UselessImportCheck	"5Remove this unused import 'io.netty.buffer.Unpooled'.(ΟΑ¤κ8ήλά,
+]squid:S2274?":Remove this call to "wait" or move it into a "while" loop.(“‡φόÿÿÿÿ8ΈΐΥ™έ,
+_squid:UselessImportCheck"4Remove this unused import 'io.netty.buffer.ByteBuf'.(¬¶η›8ήλά,
+ssquid:UselessImportCheck"HRemove this unused import 'io.netty.handler.codec.string.StringEncoder'.(ΓªΫ…8ήλά,
+Fsquid:S1148F"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Ιηέλά,
+dsquid:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8Ιηέλά,
+~squid:UselessImportCheck"NRemove this unused import 'io.netty.handler.codec.DelimiterBasedFrameDecoder'.(¦―ιςωÿÿÿÿ8ήλά,
+xsquid:UselessImportCheck"HRemove this unused import 'io.netty.handler.codec.string.StringDecoder'.(ΊτΕ«ϊÿÿÿÿ8ήλά,

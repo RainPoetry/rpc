@@ -1,0 +1,6 @@
+
+Hsquid:S1068"*Remove this unused "logger" private field.(’ùåÒ8³ûëÜ,
+dsquid:S1126I"AReplace this if-then-else statement by a single return statement.(Ï­ùˆıÿÿÿÿ8³ûëÜ,
+Fsquid:S1604"(Make this anonymous inner class a lambda(é§œ­8³ûëÜ,
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(—Æşİùÿÿÿÿ8³ûëÜ,
+dsquid:S2142q"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8³ûëÜ,

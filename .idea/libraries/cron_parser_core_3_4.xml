@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cron-parser-core-3.4">
+    <CLASSES>
+      <root url="jar://G:/cron-parser-core-3.4.jar!/" />
+      <root url="jar://G:/cron-parser-spring-3.4.jar!/" />
+      <root url="jar://G:/commons-lang3-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
